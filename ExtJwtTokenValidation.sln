@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtJwtTokenValidation.API", "ExtJwtTokenValidation.API\ExtJwtTokenValidation.API.csproj", "{0BE50108-CC5B-404B-8904-08A3EAB22D92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtJwtTokenValidation.UTIL", "ExtJwtTokenValidation.UTIL\ExtJwtTokenValidation.UTIL.csproj", "{96877BF4-9EC8-4ECC-B87C-235EE58DA5F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtJwtTokenValidation.DTO", "ExtJwtTokenValidation.DTO\ExtJwtTokenValidation.DTO.csproj", "{56A88DA0-42A8-4BC4-AAFF-AF87F83A69F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE50108-CC5B-404B-8904-08A3EAB22D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE50108-CC5B-404B-8904-08A3EAB22D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE50108-CC5B-404B-8904-08A3EAB22D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE50108-CC5B-404B-8904-08A3EAB22D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96877BF4-9EC8-4ECC-B87C-235EE58DA5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96877BF4-9EC8-4ECC-B87C-235EE58DA5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96877BF4-9EC8-4ECC-B87C-235EE58DA5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96877BF4-9EC8-4ECC-B87C-235EE58DA5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A88DA0-42A8-4BC4-AAFF-AF87F83A69F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A88DA0-42A8-4BC4-AAFF-AF87F83A69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A88DA0-42A8-4BC4-AAFF-AF87F83A69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A88DA0-42A8-4BC4-AAFF-AF87F83A69F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119A8B5F-7FBB-4F8B-A81A-9539CFD893B7}
+	EndGlobalSection
+EndGlobal
